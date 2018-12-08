@@ -1,12 +1,14 @@
 /*************************************************************************
 	> File Name: test.cpp
-	> Author: 
+	> Author:Han Lulu 
 	> Mail: 
 	> Created Time: 2018年12月08日 星期六 11时45分10秒
  ************************************************************************/
 
 #include<iostream>
-#include"maxdecltypedecay.hpp"
+//#include"maxdecltypedecay.hpp"
+//#include"maxdefault1.hpp
+#include"maxdefault3.hpp"
 using namespace std;
 
 int main()
