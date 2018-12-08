@@ -23,7 +23,6 @@ int main()
     string s2 = "math";
     cout << "max(s1,s2)=" << ::max(s1,s2) << endl;
 
-    
     return 0;
 }
 
