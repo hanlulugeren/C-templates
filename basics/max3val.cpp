@@ -21,7 +21,7 @@ T* max (T* a, T* b)
 {
     return *b < *a ? a : b;
 }
-//连个C风格字符串的的最大值
+//两个C风格字符串的最大值
 char const* max(char const* a,char const* b)
 {
     return std::strcmp(b,a) < 0 ? a : b;
